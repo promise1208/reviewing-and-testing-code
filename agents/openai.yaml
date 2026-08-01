@@ -1,0 +1,7 @@
+interface:
+  display_name: "Reviewing Embedded Software"
+  short_description: "Review embedded Linux, RTOS, drivers, and IoT software"
+  default_prompt: "Use $reviewing-and-testing-code to review and verify my embedded software changes."
+
+policy:
+  allow_implicit_invocation: true
